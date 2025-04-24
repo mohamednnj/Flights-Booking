@@ -21,7 +21,7 @@ The **Flight Booking System** is a C-based application that allows users to sear
 To set up and run the project locally:
 1. Clone the repository:
 ``` bash
-   git clone <[repository_url](https://github.com/mohamednnj/Flights-Booking.git)>
+   git clone https://github.com/mohamednnj/Flights-Booking.git
 ```
 1. Navigate to the project directory:
 ``` bash
