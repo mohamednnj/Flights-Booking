@@ -1,0 +1,3 @@
+/home/sirri/CLionProjects/Flights-Booking/cmake-build-debug/CMakeFiles/untitled.dir
+/home/sirri/CLionProjects/Flights-Booking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sirri/CLionProjects/Flights-Booking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
